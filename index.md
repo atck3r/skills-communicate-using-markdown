@@ -11,3 +11,5 @@
 ###### Header1
 
 Template of headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
